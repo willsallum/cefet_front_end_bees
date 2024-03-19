@@ -2,7 +2,7 @@
 
 Uma página sobre abelhas e suas castas.
 
-![Resultado final da prática das abelhas](https://raw.githubusercontent.com/fegemo/cefet-front-end/master/images/pratica-abelhas.png)
+![Resultado final da prática das abelhas](https://raw.githubusercontent.com/willsallum/cefet_front_end/master/images/pratica-abelhas.png)
 
 
 ## Atividade
@@ -27,7 +27,7 @@ aparência das páginas usando CSS.
    - As duas primeiras estão criadas, mas não estilizadas
    - A terceira página ainda não existe
 
-[seminal-code]: https://github.com/fegemo/cefet-front-end-bees/archive/refs/heads/main.zip
+[seminal-code]: https://github.com/willsallum/cefet_front_end_bees/archive/refs/heads/main.zip
 
 
 ### Exercício 2: Estilização inicial
@@ -63,10 +63,10 @@ está ficando. Se quiser **parar a música**, veja como fazê-lo no [FAQ](#faq).
 
 Até este ponto, a página inicial deve estar mais ou menos assim:
 
-![Resultado parcial da prática das abelhas após o exercício 2](https://raw.githubusercontent.com/fegemo/cefet-front-end/master/images/pratica-abelhas-passo-1.png)
+![Resultado parcial da prática das abelhas após o exercício 2](https://raw.githubusercontent.com/willsallum/cefet_front_end/master/images/pratica-abelhas-passo-1.png)
 
-[id-selector]: https://fegemo.github.io/cefet-front-end/classes/html2/#seletor-de-tag-e-id
-[centering-imgs]: https://fegemo.github.io/cefet-front-end/classes/html2/#centralizando-imagens
+[id-selector]: https://willsallum.github.io/cefet_front_end/classes/html2/#seletor-de-tag-e-id
+[centering-imgs]: https://willsallum.github.io/cefet_front_end/classes/html2/#centralizando-imagens
 
 
 ### Exercício 3: Estilizando as **"curiosidades"**
@@ -77,7 +77,7 @@ parágrafos.
 
 Queremos deixá-los mais ou menos assim:
 
-![Estilização dos parágrafos de curiosidades](https://raw.githubusercontent.com/fegemo/cefet-front-end/master/images/pratica-abelhas-curiosidades.png)
+![Estilização dos parágrafos de curiosidades](https://raw.githubusercontent.com/willsallum/cefet_front_end/master/images/pratica-abelhas-curiosidades.png)
 
 
 1. No arquivo `estilos.css`, crie uma regra CSS para estilizar elementos
@@ -116,7 +116,7 @@ As duas páginas possuem uma imagem logo antes do primeiro parágrafo. Vamos
 estilizar as duas de forma que elas fiquem arredondadas e com uma borda bacana:
 
 
-![Estilização das imagens das castas](https://raw.githubusercontent.com/fegemo/cefet-front-end/master/images/pratica-abelhas-castas.png)
+![Estilização das imagens das castas](https://raw.githubusercontent.com/willsallum/cefet_front_end/master/images/pratica-abelhas-castas.png)
 
 1. Veja se **as duas imagens possuem uma classe** que podemos usar para
    estilizar ambas (`<img src="..." class="???">`). Então, crie uma regra e:
@@ -131,8 +131,8 @@ esquerda e, na página dos `zangoes.html`, ela flutue à direita. Além da
 flutuação, coloque também uma margem à direita ou à esquerda (depende do
 caso) para que o texto não fique grudado na imagem:
 
-![Estilização das imagens das castas na página das operárias](https://raw.githubusercontent.com/fegemo/cefet-front-end/master/images/pratica-abelhas-operarias.png)
-![Estilização das imagens das castas na página dos zangões](https://raw.githubusercontent.com/fegemo/cefet-front-end/master/images/pratica-abelhas-zangoes.png)
+![Estilização das imagens das castas na página das operárias](https://raw.githubusercontent.com/willsallum/cefet_front_end/master/images/pratica-abelhas-operarias.png)
+![Estilização das imagens das castas na página dos zangões](https://raw.githubusercontent.com/willsallum/cefet_front_end/master/images/pratica-abelhas-zangoes.png)
 
 
 **Dica**: você pode (a) criar um `id` para cada uma das duas imagens, ou
@@ -154,7 +154,7 @@ essas novas classes, _e.g._:
 Nas páginas `operarias.html` e `zangoes.html` há um parágrafo,
 o último, que contém um _link_ para voltar à página inicial.
 
-Estilize esse parágrafo alinhando-o à direita ([como alinhar texto de um parágrafo?](https://fegemo.github.io/cefet-front-end/classes/html1/#css-alinhamentoTexto)).
+Estilize esse parágrafo alinhando-o à direita ([como alinhar texto de um parágrafo?](https://willsallum.github.io/cefet_front_end/classes/html1/#css-alinhamentoTexto)).
 
 
 ### Exercício 6: Criando a página `rainha.html`
@@ -232,7 +232,7 @@ Você pode usar um editor de imagens como Paint.NET, Pinta, Gimp, Photoshop. Ou 
 
 Veja como isso foi feito nos slides da aula [CSS parte 1][escolhendo-cores].
 
-[escolhendo-cores]: https://fegemo.github.io/cefet-front-end/classes/css1/#escolhendo-cores
+[escolhendo-cores]: https://willsallum.github.io/cefet_front_end/classes/css1/#escolhendo-cores
 
 ### Como faço para parar a música????
 
