@@ -65,7 +65,7 @@ Até este ponto, a página inicial deve estar mais ou menos assim:
 
 ![Resultado parcial da prática das abelhas após o exercício 2](https://raw.githubusercontent.com/willsallum/cefet_front_end/master/images/pratica-abelhas-passo-1.png)
 
-[id-selector]: https://willsallum.github.io/cefet_front_end/classes/html2/#seletor-de-tag-e-id
+[id-selector]: https://willsallum.github.io/cefet_front_end/classes/html2/#seletor-de-_tag_
 [centering-imgs]: https://willsallum.github.io/cefet_front_end/classes/html2/#centralizando-imagens
 
 
