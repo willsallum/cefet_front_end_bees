@@ -112,7 +112,7 @@ Estilize de forma que essa <u>imagem</u>:
 Agora vamos aproveitar que escrevemos o código CSS em um arquivo separado
 e vamos simplesmente incluí-lo nas páginas `operarias.html` e `zangoes.html`.
 
-1. **Inclua o arquivo `estilos.css`** nas páginas `operarias.html` e
+1. **[Inclua][inseri_css] o arquivo `estilos.css`** nas páginas `operarias.html` e
    `zangoes.html`, da mesma forma que foi feito para `index.html`
    - Teste e veja se está tudo certo nas duas páginas
 
