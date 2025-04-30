@@ -39,7 +39,7 @@ está ficando. Se quiser **parar a música**, veja como fazê-lo no [FAQ](#faq).
    página `index.html`
    - Lembre-se que, neste arquivo, apenas código CSS é permitido
      - Ou seja, **não é necessário (nem pode)** usar _tags_, como
-       **`<style>...</style>`**
+       **`<style>...</style>`** (vide [exemplo][inseri_css] de inserção do arquivo .css)
    - Ele deve ser incluído dentro do `<head>...</head>`, preferencialmente
      abaixo do `<title></title>`
 1. Configure **o corpo da página**
@@ -65,6 +65,7 @@ Até este ponto, a página inicial deve estar mais ou menos assim:
 
 ![Resultado parcial da prática das abelhas após o exercício 2](https://raw.githubusercontent.com/willsallum/cefet_front_end/master/images/pratica-abelhas-passo-1.png)
 
+[inseri_css]: https://willsallum.github.io/cefet_front_end/classes/css1/#referenciando-o-css-usando-a-tag-link
 [id-selector]: https://willsallum.github.io/cefet_front_end/classes/html2/#seletor-de-_tag_
 [centering-imgs]: https://willsallum.github.io/cefet_front_end/classes/html2/#centralizando-imagens
 
