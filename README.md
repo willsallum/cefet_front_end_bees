@@ -43,7 +43,7 @@ está ficando. Se quiser **parar a música**, veja como fazê-lo no [FAQ](#faq).
    - Ele deve ser incluído dentro do `<head>...</head>`, preferencialmente
      abaixo do `<title></title>`
 1. Configure **o corpo da página**
-   - Coloque um fundo em gradiente (escolha as cores)
+   - Coloque um fundo em [gradiente][gradiente] (escolha as cores)
      - Lembre-se que um gradiente não é o valor para um `background-color`,
        mas para `background-image`
      - Escolha as cores e a direção do gradiente de forma a deixar a
@@ -65,6 +65,7 @@ Até este ponto, a página inicial deve estar mais ou menos assim:
 
 ![Resultado parcial da prática das abelhas após o exercício 2](https://raw.githubusercontent.com/willsallum/cefet_front_end/master/images/pratica-abelhas-passo-1.png)
 
+[gradiente]: https://willsallum.github.io/cefet_front_end/classes/css1/#gradientes-ou-degrad%C3%AAs
 [inseri_css]: https://willsallum.github.io/cefet_front_end/classes/css1/#referenciando-o-css-usando-a-tag-link
 [id-selector]: https://willsallum.github.io/cefet_front_end/classes/html2/#seletor-de-_tag_
 [centering-imgs]: https://willsallum.github.io/cefet_front_end/classes/html2/#centralizando-imagens
@@ -87,7 +88,7 @@ Queremos deixá-los mais ou menos assim:
 1. Coloque uma borda de 1px, sólida, com a cor dos contornos dos favos de mel
    - Como descobrir uma cor?
      - Veja no [FAQ](#faq)
-1. Deixe a borda arredondada
+1. Deixe a borda [arredondada][arredondada]
    - A propriedade para deixar a borda arredondada é `border-radius` e
      ela recebe 1 tamanho, que pode ser expresso como `5px` (por exemplo)
 1. Coloque um espaçamento interno (`padding`) para que o texto não
@@ -99,10 +100,12 @@ que essa imagem aparece duas vezes na página `index.html` e também
 aparece nos outros arquivos, e ela possui uma classe `icone-curiosidade`.
 Estilize de forma que essa <u>imagem</u>:
 
-1. Flutue à esquerda
+1. [Flutue] à esquerda
 1. Tenha um espaçamento externo (_i.e._, margem) à direita para que o
    texto não fique grudado nela
 
+[arredondada]: https://willsallum.github.io/cefet_front_end/classes/css1/tarefa/#arredondando-bordas
+[Flutue]: https://willsallum.github.io/cefet_front_end/classes/css1/tarefa/#arredondando-bordas
 
 ### Exercício 4: As páginas `operarias.html` e `zangoes.html`
 
